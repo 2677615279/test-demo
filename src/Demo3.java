@@ -1,13 +1,12 @@
 /**
  * @author: Qu Fan
- * @date: 2021/4/27
- * @description: 测试git
+ * @date: 2021/4/28
+ * @description: git修改项目文件
  */
-public class Demo {
+public class Demo3 {
 
     public static void main(String[] args) {
-        System.out.println("hello world");
-        System.out.println(true);
+        System.out.println("这是第二个添加的文件");
         System.out.println("欢迎大家一起来学习git");
     }
 
